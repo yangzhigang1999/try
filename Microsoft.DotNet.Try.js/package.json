@@ -64,7 +64,7 @@
   "dependencies": {
     "es6-promise": "4.2.5",
     "rxjs": "6.5.2",
-    "xterm": "3.13.2"
+    "xterm": "3.14.5"
   },
   "publishConfig": {
     "registry": "https://msazure.pkgs.visualstudio.com/_packaging/MLS/npm/registry"
