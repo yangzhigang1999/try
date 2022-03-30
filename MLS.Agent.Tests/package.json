@@ -17,6 +17,6 @@
   "author": "MLS-Dev",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^10.12.12"
+    "@types/node": "^10.17.60"
   }
 }
