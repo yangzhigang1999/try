@@ -62,7 +62,7 @@
     "ciMinify": "uglifyjs dist/trydotnet.js --source-map"
   },
   "dependencies": {
-    "es6-promise": "4.2.5",
+    "es6-promise": "4.2.8",
     "rxjs": "6.5.2",
     "xterm": "3.13.2"
   },
