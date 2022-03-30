@@ -10,7 +10,7 @@
     "deep-equal": "1.0.1",
     "is-absolute-url": "2.1.0",
     "monaco-editor": "0.14.3",
-    "prop-types": "15.6.2",
+    "prop-types": "15.8.1",
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-monaco-editor": "0.18.0",
